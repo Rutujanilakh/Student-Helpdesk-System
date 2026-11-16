@@ -35,6 +35,17 @@ The Student Helpdesk System is a Java-based console application that allows stud
 
 ## Project Level
 Beginner Java Project
+
 ## Project Screenshots
 
-![Main Menu](Screenshots/01-Main-Menu.png)
+### 1. Main Menu
+![Main Menu](./Screenshots/01-Main-Menu.png)
+
+### 2. Create Ticket
+![Create Ticket](./Screenshots/02-Create-Ticket.png)
+
+### 3. View All Tickets
+![View Tickets](./Screenshots/03-View-Ticket.png)
+
+### 4. Resolve Ticket
+![Resolved Ticket](./Screenshots/04-Resolved-Ticket.png)
